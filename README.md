@@ -11,10 +11,6 @@ This is the "Robofriends" app, which was originally designed as a tutorial for b
 
 * **Joe Smith** - [Qasiel](https://github.com/Qasiel)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgement
 
 * Andrei Neagoie - *Zero-To-Mastery* - [GitHub](https://github.com/aneagoie)
